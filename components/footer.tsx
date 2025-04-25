@@ -90,7 +90,7 @@ export default function Footer() {
                 href="mailto:rohit.thakur07200@gmail.com"
                 className="text-primary hover:underline"
               >
-                rohit.thakur07200@gmail.com
+                rohit.thakur072004@gmail.com
               </a>
             </p>
           </div>
