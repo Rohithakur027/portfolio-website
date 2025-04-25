@@ -7,7 +7,7 @@ import { Briefcase, Calendar } from "lucide-react";
 const experiences = [
   {
     title: "E-Cell Coordinator",
-    company: "University",
+    company: "NIT Hamirpur",
     period: "2023 - 2024",
     description:
       "Organized tech events and workshops. Managed a team of volunteers and coordinated with industry professionals for guest lectures.",
